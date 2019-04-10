@@ -217,7 +217,7 @@ int main() {
 		break;
 	}
 	//Поиск
-	printf("\nВведите число для поиска: ");
+	printf("\nВведите значение: ");
 	int a = 0;
 	scanf("%d", &a);
 	printf("%d\n", getNodeByValue(Tree, i));
