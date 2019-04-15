@@ -7,7 +7,7 @@
 #define CMP_EQ(a, b) ((a) == (b))
 #define CMP_LT(a, b) ((a) < (b))
 #define CMP_GT(a, b) ((a) > (b))
-
+//Богатов Максим
 typedef int T;
 typedef struct Node {
 	T data;
